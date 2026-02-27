@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Parity Multisig kill — block before selfdestruct
+fork_block_number = 4501968
